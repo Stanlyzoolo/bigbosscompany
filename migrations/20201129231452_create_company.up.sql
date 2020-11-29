@@ -1,0 +1,5 @@
+CREATE TABLE company (
+    id INTEGER NOT NULL PRIMARY KEY,
+    name VARCHAR NOT NULL,
+    legalform VARCHAR NOT NULL
+);
